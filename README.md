@@ -31,7 +31,7 @@ However, in almost all forms of literature it is stated that there is a need for
 
 ### 2.3 Identify current models or prevailing frames that are being used to address the problem 
 
-When researching the efficiency of ketamine on MDD and TRD there were three current models and prevailing frames that appeared in multiple forms of research. They were, ‘The Animal Models of Depression’, ‘The Montgomery-Asberg Depression Rating Scale (MADRDS) and the function of the ‘N-Methyl-D-Aspartate System’.  
+When researching the efficiency of ketamine on MDD and TRD there were three current models and prevailing frames that appeared in multiple forms of research. They were, ‘The Animal Models of Depression’, ‘The Montgomery-Asberg Depression Rating Scale (MADRDS) and the function of the ‘N-Methyl-D-Aspartate System’. We also need to discuss why the use of ketamine might not be applicable in the real world due to prevailing frames. Ideas such as the fact it is a common street drug, the potential for drug abuse in a world recovering from an opiod epidemic, cost, is it available etc?
 
 ### 2.4 Discuss how prevailing models/frames are preventing the problem from being fully addressed
 
