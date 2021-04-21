@@ -57,6 +57,15 @@ We also wanted to provide our readers with a visual paradigm that would allow th
 
 The data sources we will be using will come from reviewing the available studies are literature. We will use the parameters of number of patients, efficiency and _______ to work out the future likelihood of this being an efficient treatment of MDD and TRD.
 
+| Authors | Subjects | Design | Rating Scale | Ketamine Efficacy |
+|--|--|--|--|--|
+| Popova et al, 2016|223|INtranasal (S)-K, 56 or 84mg twice weekly+AD for 4 weeks (n=114), PBO+AD for weeks (n=109)|MADRS|Efficacy at week 4. No efficacy at day 1, week 1, 2, & 3|
+|Daly et al, 2018|67|Intranasal, (S)-K, 84mg twice weekly for 4 weeks (n=35), PBO(n=31)|MADRS|Efficacy at day 1, and 2, week 1, and 2|
+| Canusco et al, 2018|67|Intranasal (S)-K, 84mg twice weekly for 4 weeks (n=35), PBO(n=31)|MADRA| Efficacy at 4hrs and day 1. Efficacy at day 25|
+|Domany et al, 2018|41|K(n=22) 1mg/kg thrice weekly for 21 days by oral route, PBO(n=19)|MADRS|Efficacy at 40 minutes, 4hrs, day 3, week 1, week 2 and 3|
+
+For our hypothesis on future durability we will create 5 "case studies" in which we will provide qualitative outcomes from the study and issues that might affect them in their daily life in continuing the study. We will then provide numerics to each of the variables that affect each agent in the case study. After doing this we will apply the quantitative data to a model to assess its potential to work in the real world. 
+
 Parameters: Depression Severity Score Before and After Treatment, Ketamine vs Placebo, Amount of Ketamine Administered, ** need to add a table in here with the data from word document. 
 
 				
