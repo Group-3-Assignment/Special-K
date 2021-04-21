@@ -58,4 +58,4 @@ The data sources we will be using will come from reviewing the available studies
 Parameters: Depression Severity Score Before and After Treatment, Ketamine vs Placebo, Amount of Ketamine Administered, ** need to add a table in here with the data from word document. 
 
 				
-![image](https://user-images.githubusercontent.com/69464463/115484831-d3f86e80-a296-11eb-89df-58b96d617ada.png)
+
