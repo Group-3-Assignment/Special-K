@@ -20,7 +20,7 @@ Overall, Ketamine in the treatment of major depressive disorder and treatment re
 
 Furthermore, current research literature does find a positive correlation in the treatment of ketamine in major depressive disorder and treatment resistant depression. As there has been a show in its efficacy studies are undertaking different forms of treatment such as intranasal routes and intravenously to find the most efficient form of treatment. Studies are also branching out to study it’s effect on other mental illnesses such as depression, bipolar and schizophrenia. With government websites show that there are currently multiple studies being undertaken at a Phase 3 and Phase 4 level. 
 
-Correspondingly, the people participating in studies such as those are the main driving force behind this complex system. The relationship they experience between their mental health issues (MDD), allow key variables to be derived and studied. 
+Correspondingly, the people participating in studies such as those are the main driving force behind this complex system. The relationship they experience between their mental health issues (MDD), allow key variables to be derived and studied. Need to write more about drivers.
 
 
 However, in almost all forms of literature it is stated that there is a need for further research before we gain a full understanding of the treatment. 
@@ -35,11 +35,13 @@ When researching the efficiency of ketamine on MDD and TRD there were three curr
 
 ### 2.4 Discuss how prevailing models/frames are preventing the problem from being fully addressed
 
+Need to complete this section. 
+
 ## 3 Conceptual Models
 
 ### 3.1 Based on your self-study of the supermarket of models, explain the three models you have chosen to look at the problem 
 
-The three models that our group has chosen to focus our research on are the Markov Processes, the Qualitative Decision-Making Model and Stock and Flow Models/Casual Loop Diagrams. 
+The three models that our group has chosen to focus our research on are the Markov Processes, the Qualitative Decision-Making Model (and what we are going to use the hypothetical data in) and Stock and Flow Models/Casual Loop Diagrams. 
 
 
 ### 3.2 Explain how each of the three models work (brief) and how it will be applied in your case
