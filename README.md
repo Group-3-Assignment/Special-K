@@ -41,7 +41,7 @@ Need to complete this section.
 
 ### 3.1 Based on your self-study of the supermarket of models, explain the three models you have chosen to look at the problem 
 
-The three models that our group has chosen to focus our research on are the Markov Processes, the Qualitative Decision-Making Model (and what we are going to use the hypothetical data in) and Stock and Flow Models/Casual Loop Diagrams. 
+The three models that our group has chosen to focus our research on are the Markov Processes, the Qualitative Decision-Making Model (and what we are going to use the hypothetical data in) then maybe focus on a heuristics model to help explain and solve the issue of how why this might/might not work and Stock and Flow Models/Casual Loop Diagrams. 
 
 
 ### 3.2 Explain how each of the three models work (brief) and how it will be applied in your case
